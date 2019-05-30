@@ -4,4 +4,9 @@ public class Apple {
  private int a;
  private int b;
  private int c;
+ 
+ private String d;
+ 
+ 
+ 
 }
